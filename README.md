@@ -30,7 +30,7 @@
 <h3>Languages:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs" alt="Languages">
 <h3>Libraries, Frameworks, Database:</h3>
-<img src="https://skillicons.dev/icons?i=react,express,mongodb" alt="Libraries, Frameworks, Database"> 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,mongodb" alt="Libraries, Frameworks, Database"> 
 <h3>Tools:</h3>
 <img src="https://skillicons.dev/icons?i=github,vscode,notion" alt="Languages">
 </div>
