@@ -2,7 +2,7 @@
 
 <p>
 🔭 I’m currently working on Front-End Development<br>
-🌱 I’m currently learning MERN Stack<br>
+🌱 I’m currently learning different Languages<br>
 💬 Ask me anything, I will respond!<br>
 📫 How to reach me: Read footer line<br>
 ⚡ Fun fact: The average person spends about six months of their life waiting for red lights to turn green!
