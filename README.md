@@ -37,15 +37,6 @@
 
 <br/>
 
-<div>
-    <a href="http://www.github.com/sahilsoni20" style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sahilsoni20&show_icons=true&theme=radical&count_private=true" alt="Sahil Soni's GitHub stats" height="200px" width="400px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsoni20&layout=compact&theme=radical" alt="Top Languages" height="200px" />
-    </a>
-</div>
-
 <br/>
 
 <p>
