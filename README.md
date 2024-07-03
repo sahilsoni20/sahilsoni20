@@ -28,7 +28,7 @@
 <!-- Languages and Tools -->
 <div>
 <h3>Languages:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,nodejs" alt="Languages">
 <h3>Libraries, Frameworks, Database:</h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,mongodb" alt="Libraries, Frameworks, Database"> 
 <h3>Tools:</h3>
