@@ -9,8 +9,7 @@ const aboutMe = {
   learning: ["Next.js", "Advanced React Patterns"],
   contact: {
     email: "ssahil3120@gmail.com",
-    linkedIn: "https://www.linkedin.com/in/sahilsoni20/",
-    github: "github.com/sahilsoni20"
+    linkedIn: "https://www.linkedin.com/in/sahilsoni20/"
   }
 };
 ```
