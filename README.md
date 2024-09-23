@@ -14,4 +14,3 @@ const aboutMe = {
 };
 ```
 > "JavaScript was the first language I taught myself, and it has become an integral part of my skill set. I am always eager to dive deeper into its frameworks, libraries, and dependencies."
-papappa dadadadada
